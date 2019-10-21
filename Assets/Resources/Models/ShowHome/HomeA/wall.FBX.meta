@@ -1,0 +1,248 @@
+fileFormatVersion: 2
+guid: a5a9e5255bbc2444f8b03c04ffc5a9ba
+timeCreated: 1509613946
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ceiling_a
+    100002: ceiling_a001
+    100004: floor_a
+    100006: floor_bedroom_001
+    100008: floor_livingroom_01
+    100010: glass_a
+    100012: Line2062826018
+    100014: Object11280
+    100016: Object11472
+    100018: Object11478
+    100020: Object11479
+    100022: Object11480
+    100024: Object11481
+    100026: Object11482
+    100028: Object11483
+    100030: Rectangle2106771932
+    100032: //RootNode
+    100034: wall_a
+    100036: wall_balcony_001
+    100038: wall_bathroom_001
+    100040: wall_bedroom_001
+    100042: wall_bedroom_002
+    100044: wall_livingroom_001
+    100046: wall_study_001
+    100048: window frame-a
+    100050: doorframe_small
+    100052: doorframe_small001
+    100054: doorframe_small002
+    100056: doorframe_small003
+    100058: doorframe_small004
+    100060: doorframe_small005
+    100062: doorframe_small006
+    100064: doorframe_small007
+    100066: Object11500
+    100068: doorframe
+    100070: doorframe001
+    400000: ceiling_a
+    400002: ceiling_a001
+    400004: floor_a
+    400006: floor_bedroom_001
+    400008: floor_livingroom_01
+    400010: glass_a
+    400012: Line2062826018
+    400014: Object11280
+    400016: Object11472
+    400018: Object11478
+    400020: Object11479
+    400022: Object11480
+    400024: Object11481
+    400026: Object11482
+    400028: Object11483
+    400030: Rectangle2106771932
+    400032: //RootNode
+    400034: wall_a
+    400036: wall_balcony_001
+    400038: wall_bathroom_001
+    400040: wall_bedroom_001
+    400042: wall_bedroom_002
+    400044: wall_livingroom_001
+    400046: wall_study_001
+    400048: window frame-a
+    400050: doorframe_small
+    400052: doorframe_small001
+    400054: doorframe_small002
+    400056: doorframe_small003
+    400058: doorframe_small004
+    400060: doorframe_small005
+    400062: doorframe_small006
+    400064: doorframe_small007
+    400066: Object11500
+    400068: doorframe
+    400070: doorframe001
+    2300000: ceiling_a
+    2300002: ceiling_a001
+    2300004: floor_a
+    2300006: floor_bedroom_001
+    2300008: floor_livingroom_01
+    2300010: glass_a
+    2300012: Line2062826018
+    2300014: Object11280
+    2300016: Object11472
+    2300018: Object11478
+    2300020: Object11479
+    2300022: Object11480
+    2300024: Object11481
+    2300026: Object11482
+    2300028: Object11483
+    2300030: Rectangle2106771932
+    2300032: wall_a
+    2300034: wall_balcony_001
+    2300036: wall_bathroom_001
+    2300038: wall_bedroom_001
+    2300040: wall_bedroom_002
+    2300042: wall_livingroom_001
+    2300044: wall_study_001
+    2300046: window frame-a
+    2300048: doorframe_small
+    2300050: doorframe_small001
+    2300052: doorframe_small002
+    2300054: doorframe_small003
+    2300056: doorframe_small004
+    2300058: doorframe_small005
+    2300060: doorframe_small006
+    2300062: doorframe_small007
+    2300064: Object11500
+    2300066: doorframe
+    2300068: doorframe001
+    3300000: ceiling_a
+    3300002: ceiling_a001
+    3300004: floor_a
+    3300006: floor_bedroom_001
+    3300008: floor_livingroom_01
+    3300010: glass_a
+    3300012: Line2062826018
+    3300014: Object11280
+    3300016: Object11472
+    3300018: Object11478
+    3300020: Object11479
+    3300022: Object11480
+    3300024: Object11481
+    3300026: Object11482
+    3300028: Object11483
+    3300030: Rectangle2106771932
+    3300032: wall_a
+    3300034: wall_balcony_001
+    3300036: wall_bathroom_001
+    3300038: wall_bedroom_001
+    3300040: wall_bedroom_002
+    3300042: wall_livingroom_001
+    3300044: wall_study_001
+    3300046: window frame-a
+    3300048: doorframe_small
+    3300050: doorframe_small001
+    3300052: doorframe_small002
+    3300054: doorframe_small003
+    3300056: doorframe_small004
+    3300058: doorframe_small005
+    3300060: doorframe_small006
+    3300062: doorframe_small007
+    3300064: Object11500
+    3300066: doorframe
+    3300068: doorframe001
+    4300000: Object11482
+    4300002: Object11481
+    4300004: Object11479
+    4300006: Object11280
+    4300008: Object11478
+    4300010: Object11480
+    4300012: Object11483
+    4300014: wall_balcony_001
+    4300016: wall_bathroom_001
+    4300018: wall_study_001
+    4300020: wall_bedroom_002
+    4300022: Object11472
+    4300024: wall_bedroom_001
+    4300026: wall_livingroom_001
+    4300028: floor_bedroom_001
+    4300030: floor_livingroom_01
+    4300032: window frame-a
+    4300034: ceiling_a001
+    4300036: wall_a
+    4300038: ceiling_a
+    4300040: glass_a
+    4300042: floor_a
+    4300044: Rectangle2106771932
+    4300046: Line2062826018
+    4300048: doorframe_small
+    4300050: Object11500
+    4300052: doorframe_small001
+    4300054: doorframe_small002
+    4300056: doorframe_small003
+    4300058: doorframe_small004
+    4300060: doorframe_small005
+    4300062: doorframe_small006
+    4300064: doorframe_small007
+    4300066: doorframe
+    4300068: doorframe001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,248 @@
+fileFormatVersion: 2
+guid: 2684bcb7da396174e9d12755e784b9e8
+timeCreated: 1509613938
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arch_056_004_016
+    100002: Arch_056_016_017
+    100004: Arch_056_016_018
+    100006: detail_246
+    100008: detail_248
+    100010: detail_249
+    100012: Line2062826014
+    100014: Line2062826016
+    100016: Line2062826017
+    100018: obj_008
+    100020: Object11469
+    100022: Plane085
+    100024: Rectangle2106771929
+    100026: Rectangle2106771930
+    100028: Roman Shade_004
+    100030: //RootNode
+    100032: Arch_056_004_017
+    100034: Arch_056_016_019
+    100036: Arch_056_016_020
+    100038: detail_250
+    100040: detail_251
+    100042: detail_252
+    100044: Line2062826021
+    100046: Line2062826022
+    100048: Line2062826023
+    100050: obj_009
+    100052: Object11474
+    100054: Plane086
+    100056: Rectangle2106771940
+    100058: Rectangle2106771941
+    100060: Roman Shade_005
+    100062: wc
+    100064: Line2062826027
+    100066: Line2062826028
+    100068: Object11499
+    100070: wc001
+    400000: Arch_056_004_016
+    400002: Arch_056_016_017
+    400004: Arch_056_016_018
+    400006: detail_246
+    400008: detail_248
+    400010: detail_249
+    400012: Line2062826014
+    400014: Line2062826016
+    400016: Line2062826017
+    400018: obj_008
+    400020: Object11469
+    400022: Plane085
+    400024: Rectangle2106771929
+    400026: Rectangle2106771930
+    400028: Roman Shade_004
+    400030: //RootNode
+    400032: Arch_056_004_017
+    400034: Arch_056_016_019
+    400036: Arch_056_016_020
+    400038: detail_250
+    400040: detail_251
+    400042: detail_252
+    400044: Line2062826021
+    400046: Line2062826022
+    400048: Line2062826023
+    400050: obj_009
+    400052: Object11474
+    400054: Plane086
+    400056: Rectangle2106771940
+    400058: Rectangle2106771941
+    400060: Roman Shade_005
+    400062: wc
+    400064: Line2062826027
+    400066: Line2062826028
+    400068: Object11499
+    400070: wc001
+    2300000: Arch_056_004_016
+    2300002: Arch_056_016_017
+    2300004: Arch_056_016_018
+    2300006: detail_246
+    2300008: detail_248
+    2300010: detail_249
+    2300012: Line2062826014
+    2300014: Line2062826016
+    2300016: Line2062826017
+    2300018: obj_008
+    2300020: Object11469
+    2300022: Plane085
+    2300024: Rectangle2106771929
+    2300026: Rectangle2106771930
+    2300028: Roman Shade_004
+    2300030: Arch_056_004_017
+    2300032: Arch_056_016_019
+    2300034: Arch_056_016_020
+    2300036: detail_250
+    2300038: detail_251
+    2300040: detail_252
+    2300042: Line2062826021
+    2300044: Line2062826022
+    2300046: Line2062826023
+    2300048: obj_009
+    2300050: Object11474
+    2300052: Plane086
+    2300054: Rectangle2106771940
+    2300056: Rectangle2106771941
+    2300058: Roman Shade_005
+    2300060: wc
+    2300062: Line2062826027
+    2300064: Line2062826028
+    2300066: Object11499
+    2300068: wc001
+    3300000: Arch_056_004_016
+    3300002: Arch_056_016_017
+    3300004: Arch_056_016_018
+    3300006: detail_246
+    3300008: detail_248
+    3300010: detail_249
+    3300012: Line2062826014
+    3300014: Line2062826016
+    3300016: Line2062826017
+    3300018: obj_008
+    3300020: Object11469
+    3300022: Plane085
+    3300024: Rectangle2106771929
+    3300026: Rectangle2106771930
+    3300028: Roman Shade_004
+    3300030: Arch_056_004_017
+    3300032: Arch_056_016_019
+    3300034: Arch_056_016_020
+    3300036: detail_250
+    3300038: detail_251
+    3300040: detail_252
+    3300042: Line2062826021
+    3300044: Line2062826022
+    3300046: Line2062826023
+    3300048: obj_009
+    3300050: Object11474
+    3300052: Plane086
+    3300054: Rectangle2106771940
+    3300056: Rectangle2106771941
+    3300058: Roman Shade_005
+    3300060: wc
+    3300062: Line2062826027
+    3300064: Line2062826028
+    3300066: Object11499
+    3300068: wc001
+    4300000: obj_008
+    4300002: Line2062826017
+    4300004: Line2062826016
+    4300006: Plane085
+    4300008: detail_249
+    4300010: detail_248
+    4300012: detail_246
+    4300014: Arch_056_016_018
+    4300016: Arch_056_016_017
+    4300018: Rectangle2106771930
+    4300020: Arch_056_004_016
+    4300022: Line2062826014
+    4300024: Rectangle2106771929
+    4300026: Object11469
+    4300028: Roman Shade_004
+    4300030: obj_009
+    4300032: Line2062826021
+    4300034: Object11474
+    4300036: Roman Shade_005
+    4300038: Rectangle2106771940
+    4300040: Line2062826022
+    4300042: Plane086
+    4300044: detail_250
+    4300046: detail_251
+    4300048: Arch_056_004_017
+    4300050: Arch_056_016_019
+    4300052: Arch_056_016_020
+    4300054: Rectangle2106771941
+    4300056: detail_252
+    4300058: Line2062826023
+    4300060: wc
+    4300062: Line2062826027
+    4300064: wc001
+    4300066: Line2062826028
+    4300068: Object11499
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

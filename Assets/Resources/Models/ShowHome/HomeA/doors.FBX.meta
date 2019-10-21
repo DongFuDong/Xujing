@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 74122a52018b09549a80ac68a44d21cd
+timeCreated: 1509677750
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cylinder35538
+    100002: Cylinder35563
+    100004: Cylinder35564
+    100006: Cylinder35565
+    100008: Cylinder35566
+    100010: Cylinder35567
+    100012: Cylinder35568
+    100014: door_a001
+    100016: door_a006
+    100018: door_a007
+    100020: door_a008
+    100022: door_a009
+    100024: door_a010
+    100026: door_a011
+    100028: //RootNode
+    100030: Cylinder35573
+    100032: Cylinder35574
+    100034: Cylinder35575
+    100036: Cylinder35576
+    100038: Cylinder35577
+    100040: Cylinder35578
+    100042: door_a012
+    100044: door_a013
+    100046: door_a014
+    100048: Cylinder35579
+    100050: door_a015
+    400000: Cylinder35538
+    400002: Cylinder35563
+    400004: Cylinder35564
+    400006: Cylinder35565
+    400008: Cylinder35566
+    400010: Cylinder35567
+    400012: Cylinder35568
+    400014: door_a001
+    400016: door_a006
+    400018: door_a007
+    400020: door_a008
+    400022: door_a009
+    400024: door_a010
+    400026: door_a011
+    400028: //RootNode
+    400030: Cylinder35573
+    400032: Cylinder35574
+    400034: Cylinder35575
+    400036: Cylinder35576
+    400038: Cylinder35577
+    400040: Cylinder35578
+    400042: door_a012
+    400044: door_a013
+    400046: door_a014
+    400048: Cylinder35579
+    400050: door_a015
+    2300000: Cylinder35538
+    2300002: Cylinder35563
+    2300004: Cylinder35564
+    2300006: Cylinder35565
+    2300008: Cylinder35566
+    2300010: Cylinder35567
+    2300012: Cylinder35568
+    2300014: door_a001
+    2300016: door_a006
+    2300018: door_a007
+    2300020: door_a008
+    2300022: door_a009
+    2300024: door_a010
+    2300026: door_a011
+    2300028: Cylinder35573
+    2300030: Cylinder35574
+    2300032: Cylinder35575
+    2300034: Cylinder35576
+    2300036: Cylinder35577
+    2300038: Cylinder35578
+    2300040: door_a012
+    2300042: door_a013
+    2300044: door_a014
+    2300046: Cylinder35579
+    2300048: door_a015
+    3300000: Cylinder35538
+    3300002: Cylinder35563
+    3300004: Cylinder35564
+    3300006: Cylinder35565
+    3300008: Cylinder35566
+    3300010: Cylinder35567
+    3300012: Cylinder35568
+    3300014: door_a001
+    3300016: door_a006
+    3300018: door_a007
+    3300020: door_a008
+    3300022: door_a009
+    3300024: door_a010
+    3300026: door_a011
+    3300028: Cylinder35573
+    3300030: Cylinder35574
+    3300032: Cylinder35575
+    3300034: Cylinder35576
+    3300036: Cylinder35577
+    3300038: Cylinder35578
+    3300040: door_a012
+    3300042: door_a013
+    3300044: door_a014
+    3300046: Cylinder35579
+    3300048: door_a015
+    4300000: Cylinder35568
+    4300002: door_a011
+    4300004: Cylinder35567
+    4300006: Cylinder35566
+    4300008: door_a010
+    4300010: door_a009
+    4300012: door_a008
+    4300014: Cylinder35565
+    4300016: door_a007
+    4300018: Cylinder35564
+    4300020: door_a006
+    4300022: Cylinder35563
+    4300024: Cylinder35538
+    4300026: door_a001
+    4300028: Cylinder35573
+    4300030: Cylinder35574
+    4300032: Cylinder35575
+    4300034: Cylinder35576
+    4300036: door_a012
+    4300038: Cylinder35577
+    4300040: door_a013
+    4300042: door_a014
+    4300044: Cylinder35578
+    4300046: door_a015
+    4300048: Cylinder35579
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

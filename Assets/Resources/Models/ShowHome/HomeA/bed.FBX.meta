@@ -1,0 +1,298 @@
+fileFormatVersion: 2
+guid: 4bd27c9a7726541439ffff07328208fe
+timeCreated: 1509613938
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: blanket004
+    100004: Box2131674154
+    100006: Box2131674156
+    100008: Box2131674160
+    100010: carpet 003
+    100012: Rectangle2106771895
+    100014: "\u5BF9\u8C614365"
+    100016: "\u5BF9\u8C614366"
+    100018: "\u5BF9\u8C614367"
+    100020: "\u5BF9\u8C614368"
+    100022: "\u5BF9\u8C614369"
+    100024: "\u5BF9\u8C614370"
+    100026: "\u5BF9\u8C614371"
+    100028: blanket006
+    100030: blanket007
+    100032: Box2131674186
+    100034: Box2131674187
+    100036: Box2131674188
+    100038: Box2131674189
+    100040: Box2131674190
+    100042: Box2131674191
+    100044: CANDLE013
+    100046: Rectangle2106771900
+    100048: Rectangle2106771935
+    100050: Rectangle2106771936
+    100052: TRAY006
+    100054: "\u5BF9\u8C614387"
+    100056: "\u5BF9\u8C614388"
+    100058: "\u5BF9\u8C614389"
+    100060: "\u5BF9\u8C614390"
+    100062: "\u5BF9\u8C614391"
+    100064: "\u5BF9\u8C614392"
+    100066: "\u5BF9\u8C614393"
+    100068: "\u5BF9\u8C614394"
+    100070: "\u5BF9\u8C614395"
+    100072: "\u5BF9\u8C614396"
+    100074: "\u5BF9\u8C614397"
+    100076: "\u5BF9\u8C614398"
+    100078: "\u5BF9\u8C614399"
+    100080: "\u5BF9\u8C614400"
+    100082: pillow_bedroom001
+    100084: "\u5BF9\u8C614402"
+    100086: carpet 004
+    100088: pillow_bedroom
+    100090: pillow_bedroom002
+    400000: //RootNode
+    400002: blanket004
+    400004: Box2131674154
+    400006: Box2131674156
+    400008: Box2131674160
+    400010: carpet 003
+    400012: Rectangle2106771895
+    400014: "\u5BF9\u8C614365"
+    400016: "\u5BF9\u8C614366"
+    400018: "\u5BF9\u8C614367"
+    400020: "\u5BF9\u8C614368"
+    400022: "\u5BF9\u8C614369"
+    400024: "\u5BF9\u8C614370"
+    400026: "\u5BF9\u8C614371"
+    400028: blanket006
+    400030: blanket007
+    400032: Box2131674186
+    400034: Box2131674187
+    400036: Box2131674188
+    400038: Box2131674189
+    400040: Box2131674190
+    400042: Box2131674191
+    400044: CANDLE013
+    400046: Rectangle2106771900
+    400048: Rectangle2106771935
+    400050: Rectangle2106771936
+    400052: TRAY006
+    400054: "\u5BF9\u8C614387"
+    400056: "\u5BF9\u8C614388"
+    400058: "\u5BF9\u8C614389"
+    400060: "\u5BF9\u8C614390"
+    400062: "\u5BF9\u8C614391"
+    400064: "\u5BF9\u8C614392"
+    400066: "\u5BF9\u8C614393"
+    400068: "\u5BF9\u8C614394"
+    400070: "\u5BF9\u8C614395"
+    400072: "\u5BF9\u8C614396"
+    400074: "\u5BF9\u8C614397"
+    400076: "\u5BF9\u8C614398"
+    400078: "\u5BF9\u8C614399"
+    400080: "\u5BF9\u8C614400"
+    400082: pillow_bedroom001
+    400084: "\u5BF9\u8C614402"
+    400086: carpet 004
+    400088: pillow_bedroom
+    400090: pillow_bedroom002
+    2300000: blanket004
+    2300002: Box2131674154
+    2300004: Box2131674156
+    2300006: Box2131674160
+    2300008: carpet 003
+    2300010: Rectangle2106771895
+    2300012: "\u5BF9\u8C614365"
+    2300014: "\u5BF9\u8C614366"
+    2300016: "\u5BF9\u8C614367"
+    2300018: "\u5BF9\u8C614368"
+    2300020: "\u5BF9\u8C614369"
+    2300022: "\u5BF9\u8C614370"
+    2300024: "\u5BF9\u8C614371"
+    2300026: blanket006
+    2300028: blanket007
+    2300030: Box2131674186
+    2300032: Box2131674187
+    2300034: Box2131674188
+    2300036: Box2131674189
+    2300038: Box2131674190
+    2300040: Box2131674191
+    2300042: CANDLE013
+    2300044: Rectangle2106771900
+    2300046: Rectangle2106771935
+    2300048: Rectangle2106771936
+    2300050: TRAY006
+    2300052: "\u5BF9\u8C614387"
+    2300054: "\u5BF9\u8C614388"
+    2300056: "\u5BF9\u8C614389"
+    2300058: "\u5BF9\u8C614390"
+    2300060: "\u5BF9\u8C614391"
+    2300062: "\u5BF9\u8C614392"
+    2300064: "\u5BF9\u8C614393"
+    2300066: "\u5BF9\u8C614394"
+    2300068: "\u5BF9\u8C614395"
+    2300070: "\u5BF9\u8C614396"
+    2300072: "\u5BF9\u8C614397"
+    2300074: "\u5BF9\u8C614398"
+    2300076: "\u5BF9\u8C614399"
+    2300078: "\u5BF9\u8C614400"
+    2300080: pillow_bedroom001
+    2300082: "\u5BF9\u8C614402"
+    2300084: carpet 004
+    2300086: pillow_bedroom
+    2300088: pillow_bedroom002
+    3300000: blanket004
+    3300002: Box2131674154
+    3300004: Box2131674156
+    3300006: Box2131674160
+    3300008: carpet 003
+    3300010: Rectangle2106771895
+    3300012: "\u5BF9\u8C614365"
+    3300014: "\u5BF9\u8C614366"
+    3300016: "\u5BF9\u8C614367"
+    3300018: "\u5BF9\u8C614368"
+    3300020: "\u5BF9\u8C614369"
+    3300022: "\u5BF9\u8C614370"
+    3300024: "\u5BF9\u8C614371"
+    3300026: blanket006
+    3300028: blanket007
+    3300030: Box2131674186
+    3300032: Box2131674187
+    3300034: Box2131674188
+    3300036: Box2131674189
+    3300038: Box2131674190
+    3300040: Box2131674191
+    3300042: CANDLE013
+    3300044: Rectangle2106771900
+    3300046: Rectangle2106771935
+    3300048: Rectangle2106771936
+    3300050: TRAY006
+    3300052: "\u5BF9\u8C614387"
+    3300054: "\u5BF9\u8C614388"
+    3300056: "\u5BF9\u8C614389"
+    3300058: "\u5BF9\u8C614390"
+    3300060: "\u5BF9\u8C614391"
+    3300062: "\u5BF9\u8C614392"
+    3300064: "\u5BF9\u8C614393"
+    3300066: "\u5BF9\u8C614394"
+    3300068: "\u5BF9\u8C614395"
+    3300070: "\u5BF9\u8C614396"
+    3300072: "\u5BF9\u8C614397"
+    3300074: "\u5BF9\u8C614398"
+    3300076: "\u5BF9\u8C614399"
+    3300078: "\u5BF9\u8C614400"
+    3300080: pillow_bedroom001
+    3300082: "\u5BF9\u8C614402"
+    3300084: carpet 004
+    3300086: pillow_bedroom
+    3300088: pillow_bedroom002
+    4300000: Box2131674160
+    4300002: Box2131674156
+    4300004: Box2131674154
+    4300006: carpet 003
+    4300008: "\u5BF9\u8C614371"
+    4300010: blanket004
+    4300012: "\u5BF9\u8C614370"
+    4300014: "\u5BF9\u8C614369"
+    4300016: "\u5BF9\u8C614368"
+    4300018: "\u5BF9\u8C614367"
+    4300020: "\u5BF9\u8C614366"
+    4300022: "\u5BF9\u8C614365"
+    4300024: Rectangle2106771895
+    4300026: blanket007
+    4300028: "\u5BF9\u8C614400"
+    4300030: Box2131674191
+    4300032: Box2131674190
+    4300034: Box2131674189
+    4300036: "\u5BF9\u8C614399"
+    4300038: "\u5BF9\u8C614398"
+    4300040: "\u5BF9\u8C614397"
+    4300042: "\u5BF9\u8C614396"
+    4300044: "\u5BF9\u8C614395"
+    4300046: "\u5BF9\u8C614394"
+    4300048: Rectangle2106771936
+    4300050: blanket006
+    4300052: "\u5BF9\u8C614393"
+    4300054: Box2131674188
+    4300056: Box2131674187
+    4300058: Box2131674186
+    4300060: "\u5BF9\u8C614392"
+    4300062: "\u5BF9\u8C614391"
+    4300064: "\u5BF9\u8C614390"
+    4300066: "\u5BF9\u8C614389"
+    4300068: "\u5BF9\u8C614388"
+    4300070: "\u5BF9\u8C614387"
+    4300072: Rectangle2106771935
+    4300074: CANDLE013
+    4300076: TRAY006
+    4300078: Rectangle2106771900
+    4300080: pillow_bedroom001
+    4300082: "\u5BF9\u8C614402"
+    4300084: carpet 004
+    4300086: pillow_bedroom
+    4300088: pillow_bedroom002
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

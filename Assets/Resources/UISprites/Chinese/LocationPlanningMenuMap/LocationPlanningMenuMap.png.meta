@@ -1,0 +1,560 @@
+fileFormatVersion: 2
+guid: 4d897053fc5cf314686c8ff5939dfe61
+timeCreated: 1548755519
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: LocationPlanningMenuMap_0
+    21300002: LocationPlanningMenuMap_1
+    21300004: LocationPlanningMenuMap_2
+    21300006: LocationPlanningMenuMap_3
+    21300008: LocationPlanningMenuMap_4
+    21300010: LocationPlanningMenuMap_5
+    21300012: LocationPlanningMenuMap_6
+    21300014: LocationPlanningMenuMap_7
+    21300016: LocationPlanningMenuMap_8
+    21300018: LocationPlanningMenuMap_9
+    21300020: LocationPlanningMenuMap_10
+    21300022: LocationPlanningMenuMap_11
+    21300024: LocationPlanningMenuMap_12
+    21300026: LocationPlanningMenuMap_13
+    21300028: LocationPlanningMenuMap_14
+    21300030: LocationPlanningMenuMap_15
+    21300032: LocationPlanningMenuMap_16
+    21300034: LocationPlanningMenuMap_17
+    21300036: LocationPlanningMenuMap_18
+    21300038: LocationPlanningMenuMap_19
+    21300040: LocationPlanningMenuMap_20
+    21300042: LocationPlanningMenuMap_21
+    21300044: LocationPlanningMenuMap_22
+    21300046: LocationPlanningMenuMap_23
+    21300048: LocationPlanningMenuMap_24
+    21300050: LocationPlanningMenuMap_25
+    21300052: LocationPlanningMenuMap_26
+    21300054: LocationPlanningMenuMap_27
+    21300056: LocationPlanningMenuMap_28
+    21300058: LocationPlanningMenuMap_29
+    21300060: LocationPlanningMenuMap_30
+    21300062: LocationPlanningMenuMap_31
+    21300064: LocationPlanningMenuMap_32
+    21300066: LocationPlanningMenuMap_33
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LocationPlanningMenuMap_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 967
+        width: 1921
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LocationPlanningMenuMap_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 403
+        width: 633
+        height: 560
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LocationPlanningMenuMap_2
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 580
+        width: 141
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LocationPlanningMenuMap_3
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 582
+        width: 141
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LocationPlanningMenuMap_4
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 581
+        width: 141
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LocationPlanningMenuMap_5
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 622
+        width: 354
+        height: 343
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LocationPlanningMenuMap_6
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 412
+        width: 134
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LocationPlanningMenuMap_7
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 20
+        width: 483
+        height: 440
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LocationPlanningMenuMap_8
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 538
+        width: 142
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LocationPlanningMenuMap_9
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 538
+        width: 142
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LocationPlanningMenuMap_10
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 538
+        width: 142
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LocationPlanningMenuMap_11
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 477
+        width: 142
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LocationPlanningMenuMap_12
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 497
+        width: 140
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LocationPlanningMenuMap_13
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 497
+        width: 142
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LocationPlanningMenuMap_14
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 466
+        width: 149
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LocationPlanningMenuMap_15
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 460
+        width: 139
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LocationPlanningMenuMap_16
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 412
+        width: 134
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LocationPlanningMenuMap_17
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 463
+        width: 176
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LocationPlanningMenuMap_18
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 406
+        width: 175
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LocationPlanningMenuMap_19
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 442
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LocationPlanningMenuMap_20
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 485
+        width: 141
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LocationPlanningMenuMap_21
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 520
+        width: 483
+        height: 445
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LocationPlanningMenuMap_22
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 1682
+        width: 75
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LocationPlanningMenuMap_23
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 1798
+        width: 97
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LocationPlanningMenuMap_24
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 1830
+        width: 95
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LocationPlanningMenuMap_25
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 1863
+        width: 95
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LocationPlanningMenuMap_26
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 1894
+        width: 95
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LocationPlanningMenuMap_27
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 1926
+        width: 107
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LocationPlanningMenuMap_28
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 1967
+        width: 112
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LocationPlanningMenuMap_29
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 1526
+        width: 6
+        height: 399
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LocationPlanningMenuMap_30
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 1368
+        width: 8
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LocationPlanningMenuMap_31
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 1551
+        width: 6
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LocationPlanningMenuMap_32
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 7
+        width: 438
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LocationPlanningMenuMap_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 484
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
