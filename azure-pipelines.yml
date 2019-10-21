@@ -27,5 +27,9 @@ steps:
     platform: 'x86'
     solution: '$(solution)'
     configuration: '$(buildConfiguration)'
-    msbuildArgs: '/p:AppxBundlePlatforms="$(buildPlatform)" /p:AppxPackageDir="$(appxPackageDir)" /p:AppxBundle=Always /p:UapAppxPackageBuildMode=StoreUpload'
+    msbuildArgs: '/p:AppxBundlePlatforms="$(buildPlatform)" /p:AppxPackageDir="$(appxPackageDir)" /p:AppxBundle=Always /p:UapAppxPackageBuildMode=StoreUpload
+    /p:AppxPackageDir="$(Build.ArtifactStagingDirectory)\AppxPackages\\"
+    /p:UapAppxPackageBuildMode=StoreUpload
+    /p:AppxBundlePlatforms="$(Build.BuildPlatform)"
+    /p:AppxBundle=Always'
     
